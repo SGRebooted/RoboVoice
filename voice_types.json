@@ -1,0 +1,26 @@
+{
+  "Default": {
+    "pitch_shift": 0,
+    "bandpass_freq": 600,
+    "modulation_rate": 0,
+    "modulation_depth": 0
+  },
+  "G1 Soundwave": {
+    "pitch_shift": -12,
+    "bandpass_freq": 850,
+    "modulation_rate": 8,
+    "modulation_depth": 0.55
+  },
+  "HK-74": {
+    "pitch_shift": -7,
+    "bandpass_freq": 700,
+    "modulation_rate": 3,
+    "modulation_depth": 0.35
+  },
+  "AUTO (Wall-E)": {
+    "pitch_shift": -2,
+    "bandpass_freq": 1100,
+    "modulation_rate": 1.5,
+    "modulation_depth": 0.2
+  }
+}

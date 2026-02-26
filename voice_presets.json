@@ -1,0 +1,38 @@
+{
+  "Default": {
+    "mode": "normal",
+    "pitch_shift": 0.0,
+    "distortion_amount": 0,
+    "hear_original": true
+  },
+  "Glitchy Robot": {
+    "mode": "extremely_damaged",
+    "pitch_shift": -5,
+    "distortion_amount": 60,
+    "hear_original": false
+  },
+  "Cyber Warforged": {
+    "mode": "slightly_broken",
+    "pitch_shift": 8,
+    "distortion_amount": 25,
+    "hear_original": true
+  },
+  "G1 Soundwave": {
+    "mode": "normal",
+    "pitch_shift": -12,
+    "distortion_amount": 55,
+    "hear_original": false
+  },
+  "HK-74": {
+    "mode": "slightly_broken",
+    "pitch_shift": -7,
+    "distortion_amount": 35,
+    "hear_original": false
+  },
+  "AUTO (Wall-E)": {
+    "mode": "normal",
+    "pitch_shift": -2,
+    "distortion_amount": 10,
+    "hear_original": true
+  }
+}
