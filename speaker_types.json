@@ -1,0 +1,122 @@
+{
+  "Clean": {
+    "sample_rate": 44100,
+    "compression_threshold_db": -24,
+    "compression_ratio": 1,
+    "makeup_db": 0,
+    "bit_depth": 16,
+    "crackle": 0,
+    "bitcrush_mix": 1,
+    "bitcrush_drive_db": 0
+  },
+  "Robot PA": {
+    "sample_rate": 16000,
+    "compression_threshold_db": -26,
+    "compression_ratio": 4,
+    "makeup_db": 5,
+    "bit_depth": 12,
+    "crackle": 0,
+    "bitcrush_mix": 1,
+    "bitcrush_drive_db": 0
+  },
+  "Radio": {
+    "sample_rate": 8000,
+    "compression_threshold_db": -28,
+    "compression_ratio": 6,
+    "makeup_db": 6,
+    "bit_depth": 10,
+    "crackle": 0.025,
+    "bitcrush_mix": 1,
+    "bitcrush_drive_db": 0
+  },
+  "Damaged Speaker": {
+    "sample_rate": 11025,
+    "compression_threshold_db": -26,
+    "compression_ratio": 5,
+    "makeup_db": 5,
+    "bit_depth": 8,
+    "crackle": 0.08,
+    "bitcrush_mix": 1,
+    "bitcrush_drive_db": 0
+  },
+  "Clean Compressor": {
+    "sample_rate": 44100,
+    "compression_threshold_db": -30,
+    "compression_ratio": 4,
+    "makeup_db": 6,
+    "bit_depth": 16,
+    "bitcrush_mix": 1,
+    "bitcrush_drive_db": 0,
+    "crackle": 0
+  },
+  "SNES-inspired": {
+    "sample_rate": 16000,
+    "compression_threshold_db": -30,
+    "compression_ratio": 4,
+    "makeup_db": 5,
+    "bit_depth": 9,
+    "bitcrush_mix": 0.8,
+    "bitcrush_drive_db": 6,
+    "crackle": 0
+  },
+  "GBA-inspired": {
+    "sample_rate": 11025,
+    "compression_threshold_db": -30,
+    "compression_ratio": 5,
+    "makeup_db": 5,
+    "bit_depth": 8,
+    "bitcrush_mix": 1,
+    "bitcrush_drive_db": 8,
+    "crackle": 0
+  },
+  "Glitchy Dialogue": {
+    "sample_rate": 11025,
+    "compression_threshold_db": -26,
+    "compression_ratio": 5,
+    "makeup_db": 5,
+    "bit_depth": 10,
+    "bitcrush_mix": 0.6,
+    "bitcrush_drive_db": 6,
+    "crackle": 0.08
+  },
+  "Glitchy Robot - Expressive": {
+    "sample_rate": 22050,
+    "compression_threshold_db": -26,
+    "compression_ratio": 1.5,
+    "makeup_db": 1,
+    "bit_depth": 12,
+    "bitcrush_mix": 0.25,
+    "bitcrush_drive_db": 6,
+    "crackle": 0.01
+  },
+  "Glitchy Robot - Gentle": {
+    "sample_rate": 16000,
+    "compression_threshold_db": -26,
+    "compression_ratio": 2,
+    "makeup_db": 2,
+    "bit_depth": 12,
+    "bitcrush_mix": 0.4,
+    "bitcrush_drive_db": 6,
+    "crackle": 0.02
+  },
+  "Glitchy Robot - Choir": {
+    "sample_rate": 16000,
+    "compression_threshold_db": -26,
+    "compression_ratio": 5,
+    "makeup_db": 5,
+    "bit_depth": 12,
+    "bitcrush_mix": 0.4,
+    "bitcrush_drive_db": 6,
+    "crackle": 0.025
+  },
+  "Glitchy Robot - Arcade": {
+    "sample_rate": 11025,
+    "compression_threshold_db": -26,
+    "compression_ratio": 5,
+    "makeup_db": 5,
+    "bit_depth": 8,
+    "bitcrush_mix": 0.65,
+    "bitcrush_drive_db": 8,
+    "crackle": 0.015
+  }
+}
